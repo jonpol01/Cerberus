@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=MB1035.SchDoc|Designator=U_IO Peripherals|SchDesignator=U_IO Peripherals|FileName=IO Peripherals.SchDoc|SymbolType=Normal|RawFileName=IO Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MB1035.SchDoc|Designator=U_ST_LINK|SchDesignator=U_ST_LINK|FileName=ST_LINK_V2.SCHDOC|SymbolType=Normal|RawFileName=ST_LINK_V2.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MB1035.SchDoc|Designator=U_STM32Fx|SchDesignator=U_STM32Fx|FileName=STM32Fx.SchDoc|SymbolType=Normal|RawFileName=STM32Fx.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=MB1035.SchDoc
