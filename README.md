@@ -1,5 +1,4 @@
-[cerb]:docs/cerberus.jpg 
-
+[cerb]:https://github.com/jonpol01/Cerberus/blob/screen/cerberus-clipart-1.jpg
 
 ![cerb]
 
