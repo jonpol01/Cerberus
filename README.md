@@ -2,6 +2,7 @@
 
 A multi CPU equipped bot for scientific research
 
-![cerb](docs/cerberus.jpg)
-
+<div style="float: center">
+  ![cerb](docs/cerberus.jpg)
+</div>
 
